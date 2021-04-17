@@ -1,0 +1,26 @@
+{%extends 'base.html'%}
+
+{%block title%}Catalog{%endblock%}
+
+{%block content%}
+
+<div class="header">
+    <h2>{{cat_name}}</h2>
+    <h4>Todos los productos de esta categoría tienen garantía de calidad. !Pruebalos todos!</h4>
+</div>
+<div class="catalog">
+    {%for product in cat_inv['products']%}
+    <div class="product">
+        <div class="product_picture">
+            <img src="{{ url_for('static', filename = 'images/inventory/' + product['Imagen'] ) }}" height="100%" width = "auto" />
+        </div>
+        <div class="product_information">
+            <p><strong>{{product['Articulo']}} {{product['Sabor']}}</strong></p>
+            <p>{{product['Vaso']}} {{product['Gramos']}} gr.</p>
+        </div>
+        
+    </div>
+    {%endfor%}
+</div>
+
+{%endblock%}

@@ -1,0 +1,28 @@
+{%extends 'base.html'%}
+
+{%block title%}{{store.store['store_name']}} : {{store.store['store_slogan']}}{%endblock%}
+
+{%block content%}
+
+<div class="header">
+    <h2>Catálogo de Productos</h2>
+    <h4>¡Descubre todos los productos que {{store.store['store_name']}} tiene para tí!</h4>
+</div>  
+<div class="catalog">
+    {%for category in inventory.inventory%}
+    <a href= "{{ url_for('category', cat_name = category) }}" class="horizontal">
+        <div class="image_holder">
+            <img src="{{inventory.picture_path}}{{inventory.inventory[category]['category_picture']}}" height="100%" width = "auto">
+            <div class="ticker">
+                {{inventory.inventory[category]['products'] | length}}
+            </div>
+        </div>
+        <div class="category_name">
+            <p><strong>{{category}}</strong></p>
+        </div>
+    </a>
+    {%endfor%}
+</div>
+
+
+{%endblock%}

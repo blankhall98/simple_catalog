@@ -1,0 +1,73 @@
+id,Clase,Codigo,Articulo,Sabor,Variante,Vaso,Gramos,Imagen
+1,Flor de Sal Natural,7503027141006,Flor de Sal,Natural,,Tequila,80,55.png
+2,Flor de Sal Natural,7503027141013,Flor de Sal,Natural,,Whisky,250,default.png
+3,Flor de Sal Natural,7503027141020,Flor de Sal,Natural,,HB,350,default.png
+4,Flor de Sal Natural,7503027141037,Flor de Sal,Natural,,Maxi,900,default.png
+5,Flor de Sal Natural,´7503028177073,Flor de Sal,Finas Hierbas y Especias,Mexicana,Tequila,,default.png
+6,Flor de Sal Natural,´7503028177073,Flor de Sal,Finas Hierbas y Especias,Mexicana,Whisky,200,default.png
+7,Flor de Sal Natural,´7503028177417,Flor de Sal,Natural,,Bolsa,100,default.png
+8,Flor de Sal Natural,´7503028177240,Flor de Sal,Natural,,Bolsa,200,default.png
+9,Flor de Sal Natural,´7503028177233,Flor de Sal,Natural,,Bolsa,350,default.png
+10,Flor de Sal Natural,´7503028177226,Flor de Sal,Natural,,Bolsa,1000,default.png
+11,Flor de Sal Chapulin,7503027141143,Flor de Sal,Chapulin,Limon,Tequila,80,default.png
+12,Flor de Sal Chapulin,7503027141150,Flor de Sal,Chapulin,Mexicxana,Tequila,60,default.png
+13,Flor de Sal Chapulin,7503027141167,Flor de Sal,Chapulin,Italiana,Tequila,60,default.png
+14,Flor de Sal Chapulin,7503027141174,Flor de Sal,Chapulin,Francesa,Tequila,60,default.png
+15,Flor de Sal Chapulin,7503028177349,Flor de Sal,Chapulin,Española,Tequila,60,default.png
+16,Flor de Sal Chapulin,7503027141181,Flor de Sal,Chapulin,Alemana,Tequila,60,default.png
+17,Flor de Sal Chapulin,7503027141044,Flor de Sal,Chapulin,Limon,Whisky,250,default.png
+18,Flor de Sal Chapulin,7503027141051,Flor de Sal,Chapulin,Mexicxana,Whisky,200,default.png
+19,Flor de Sal Chapulin,7503027141068,Flor de Sal,Chapulin,Italiana,Whisky,200,default.png
+20,Flor de Sal Chapulin,7503027141075,Flor de Sal,Chapulin,Francesa,Whisky,200,default.png
+21,Flor de Sal Chapulin,7503028177363,Flor de Sal,Chapulin,Española,Whisky,200,default.png
+22,Flor de Sal Chapulin,7503027141082,Flor de Sal,Chapulin,Alemana,Whisky,200,default.png
+23,Flor de Sal Gusano de Maguey,7503027141198,Flor de Sal,Gusano de Maguey,Limon,Tequila,80,default.png
+24,Flor de Sal Gusano de Maguey,7503027141204,Flor de Sal,Gusano de Maguey,Mexicxana,Tequila,60,default.png
+25,Flor de Sal Gusano de Maguey,7503027141211,Flor de Sal,Gusano de Maguey,Italiana,Tequila,60,default.png
+26,Flor de Sal Gusano de Maguey,7503027141228,Flor de Sal,Gusano de Maguey,Francesa,Tequila,60,default.png
+27,Flor de Sal Gusano de Maguey,7503028177332,Flor de Sal,Gusano de Maguey,Española,Tequila,60,default.png
+28,Flor de Sal Gusano de Maguey,7503027141235,Flor de Sal,Gusano de Maguey,Alemana,Tequila,60,default.png
+29,Flor de Sal Gusano de Maguey,7503027141099,Flor de Sal,Gusano de Maguey,Limon,Whisky,250,default.png
+30,Flor de Sal Gusano de Maguey,7503027141105,Flor de Sal,Gusano de Maguey,Mexicxana,Whisky,200,default.png
+31,Flor de Sal Gusano de Maguey,7503027141112,Flor de Sal,Gusano de Maguey,Italiana,Whisky,200,default.png
+32,Flor de Sal Gusano de Maguey,7503027141129,Flor de Sal,Gusano de Maguey,Francesa,Whisky,200,default.png
+33,Flor de Sal Gusano de Maguey,7503028177356,Flor de Sal,Gusano de Maguey,Española,Whisky,200,default.png
+34,Flor de Sal Gusano de Maguey,7503027141136,Flor de Sal,Gusano de Maguey,Alemana,Whisky,200,default.png
+35,Salsas en Polvo,7503027141761,Salsa,Mexicana,Polvo,Tequila,60,default.png
+36,Salsas en Polvo,7503027141778,Salsa,Italiana,Polvo,Tequila,60,default.png
+37,Salsas en Polvo,7503027141785,Salsa,Francesa,Polvo,Tequila,60,default.png
+38,Salsas en Polvo,7503027141792,Salsa,Alemana,Polvo,Tequila,60,default.png
+39,Salsas en Polvo,´7503027141808,Salsa,Española,Polvo,Tequila,60,default.png
+40,Salsas en Polvo,´7503027141860,Set 4 Salsas,Mex+Ita+Fra+Ale,Polvo,Tequila,240,default.png
+41,Salsas en Polvo,7503027141815,Salsa,Mexicana,Polvo,Whisky,200,default.png
+42,Salsas en Polvo,7503027141822,Salsa,Italiana,Polvo,Whisky,200,default.png
+43,Salsas en Polvo,7503027141839,Salsa,Francesa,Polvo,Whisky,200,default.png
+44,Salsas en Polvo,7503027141846,Salsa,Alemana,Polvo,Whisky,200,default.png
+45,Salsas en Polvo,´7503027141853,Salsa,Española,Polvo,Whisky,200,default.png
+46,Salsa Chapulin en Polvo,7503028177387,Salsa,Chapulin,Mexicana,Tequila,50,default.png
+47,Salsa Chapulin en Polvo,7503028177400,Salsa,Chapulin,Mexicana,Whisky,150,default.png
+48,Salsa Gusano de Maguey en Polvo,7503028177370,Salsa,Gusano de Maguey,Mexicana,Tequila,50,default.png
+49,Salsa Gusano de Maguey en Polvo,7503028177394,Salsa,Gusano de Maguey,Mexicana,Whisky,150,default.png
+50,Chapulin Natural,7503027141648,Chapulin,al Limon,,Tequila,30,default.png
+51,Chapulin Natural,7503027141655,Chapulin,al Limon,Adobado,Tequila,30,default.png
+52,Chapulin Natural,7503027141679,Chapulin,al Limon,,Whisky,100,default.png
+53,Chapulin Natural,7503027141686,Chapulin,al Limon,Adobado,Whisky,100,default.png
+54,Chapulin Deshidratado,7503027141662,Chapulin,Deshidratado,Polvo,Tequila,50,default.png
+55,Chapulin Deshidratado,7503027141693,Chapulin,Deshidratado,Polvo,Whisky,150,dufault.png
+56,Chapulin Deshidratado,´7503027141723,Chapulin,Deshidratado,Polvo,HB,230,default.png
+57,Chapulin Deshidratado,´7503027141754,Chapulin,Deshidratado,Polvo,Maxi,500,default.png
+58,Alga Marina y Aloe Vera,7503028177202,Alga,Kombu Deshidratada,Tiras,Bolsa,200,default.png
+59,Alga Marina y Aloe Vera,´7503027141280,Alga,Kombu Deshidratada,Tiras,Bolsa,250,default.png
+60,Alga Marina y Aloe Vera,´7503028177196,Aloe Vera,Organica,Pulpa,HB,400,default.png
+61,Alga Marina y Aloe Vera,´7503028177066,Aloe Vera,Organica,Pulpa,Maxi,1000,default.png
+62,Cacao y Chocolate,´7503028177257,Cacao,Natural,Polvo,Bolsa,700,default.png
+63,Cacao y Chocolate,,Chocolate,Natural,Polvo,Bolsa,,default.png
+64,Vasos en Policarbonato,´7503027141334,Vaso,Tequila 100ml,Transparente,,,default.png
+65,Vasos en Policarbonato,´7503027141396,Vaso,Whisky 360ml,Transparente,,,default.png
+66,Vasos en Policarbonato,´7503027141457,Vaso,HB 450ml,Transparente,,,default.png
+67,Vasos en Policarbonato,´7503027141518,Vaso,"Maxi 1,100ml",Transparente,,,default.png
+68,Vasos en Policarbonato,´7503027141365,Set 6 Vasos,Tequila 100ml c/u,Azul,,,default.png
+69,Vasos en Policarbonato,´7503027141426,Set 6 Vasos,Whisky 360ml c/u,Azul,,,default.png
+70,Vasos en Policarbonato,´7503027141488,Set 4 Vasos,HB 350ml c/u,Azul,,,default.png
+71,Vasos en Policarbonato,´7503027141549,Set 4 Vasos,Maxi 1.1 Lt c/u,Azul,,,default.png
+72,Set Fondue,´7503027141570,Set Fondue,Fierro Fundido 10 Piezas,Negro,,,default.png
